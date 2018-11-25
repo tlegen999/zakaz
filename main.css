@@ -6,8 +6,7 @@ body{
 }
 .Desktop-HD {
     margin: auto;
-    width: 1440px;
-    height: 1200px;
+
 
   }
 
@@ -94,48 +93,47 @@ body{
         color: #86939e; 
     }
           
-
+   .block2 {
+      margin: auto;
+      width: 487px;
+      height: 300px;
+    }
 
 .kartinka1{
-    float: left;
-    margin-left: 470px;
     padding-top: 20px;
     width: 240px;
- 
+
+    
 }
 
 
 .kartinka2{
-  float: right;
-  margin-right : 690px;
   padding: 10px;
   width: 240px;
 }
 
+
 .size38{
-  
+  margin: auto;
   padding: 20px;
   font-family: AvenirNext,sans-serif;
   font-size: 38px;
-  float: left;
-  margin-left: 350px;
+ 
     color: #86939e;
 }
 
 .kartinka3{
   padding: 20px;
-  margin-left: 50px;
+  margin: auto;
 }
 
 .kartinka4{
   float: left;
-  margin-left: 50px;
   padding: 20px;
 }
 
 .kartinka5{
   float: right;
-  margin-right: 80px;
   padding: 20px;
 }
 
