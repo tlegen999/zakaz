@@ -21,10 +21,9 @@ body{
     color: #ffff00; 
    }
 
-  .text1{
+   .bezr{
     margin:auto;
-    width: 498px;
-    height: 134px;
+
     font-family: AvenirNext,sans-serif;
     font-size: 30px;
     font-weight: normal;
@@ -33,27 +32,35 @@ body{
     line-height: normal;
     letter-spacing: normal;
     text-align: center;
-    color: #86939e;    
-  }
-
-  .text2{
-   
-    margin:auto;
-    width: 487px;
-    height: 176px;
-    font-family: AvenirNext,sans-serif;
-    font-size: 29px;
-    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: center;
     color: #86939e; 
+   }
 
-     
+  .size30{
+    font-size: 30px; 
+    width: 498px;
+  height: 134px;
   }
 
+  .size25{
+    font-size: 25px; 
+    width: 498px;
+  height: 134px;
+  }
+
+  .bold{
+    padding: 10px;
+    font-family: AvenirNext,sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+    margin-left: 180px;
+      color: #86939e;
+  }
+
+  .block1{
+    margin: auto;
+    width: 487px;
+    height: 130px;
+  }
   .ovochi{
   
     float: left;
@@ -72,25 +79,10 @@ body{
   
 
 
-       .text3 {
-        margin:auto;
-            width: 548px;
-            height: 210px;
-            font-family: AvenirNext;
-            font-size: 25px;
-            font-weight: normal;
-            font-style: normal;
-            font-stretch: normal;
-            line-height: normal;
-            letter-spacing: normal;
-            text-align: center;
-            color: #86939e;}
 
    p {
         padding: 5px;
         margin:auto;
-        width: 498px;
-        height: 134px;
         font-family: AvenirNext,sans-serif;
         font-size: 30px;
         font-weight: normal;
@@ -111,14 +103,7 @@ body{
     width: 240px;
  
 }
-.text4{
-  padding: 10px;
-  font-family: AvenirNext,sans-serif;
-  font-size: 38px;
-  font-weight: bold;
-  margin-left: 180px;
-    color: #86939e;
-}
+
 
 .kartinka2{
   float: right;
@@ -127,7 +112,7 @@ body{
   width: 240px;
 }
 
-.text5{
+.size38{
   
   padding: 20px;
   font-family: AvenirNext,sans-serif;
@@ -141,11 +126,6 @@ body{
   padding: 20px;
   margin-left: 50px;
 }
-.text5_1{
-  font-family: AvenirNext,sans-serif;
-  font-size: 28px;
-  color: #1f8649;
-}
 
 .kartinka4{
   float: left;
@@ -157,4 +137,10 @@ body{
   float: right;
   margin-right: 80px;
   padding: 20px;
+}
+
+.color_green{
+  font-family: AvenirNext,sans-serif;
+  font-size: 28px;
+  color: #1f8649;
 }
